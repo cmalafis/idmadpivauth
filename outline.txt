@@ -1,0 +1,4 @@
+# Use this file as an outline for the blog, and how it should be structured
+# the blog should have some code in it, but it should be more around the theory/application of the solution
+# the majority of the code can end up living in this github
+# an example would be the sssd.conf.d file structure - we could put all the files in here, and explain why it's important to configure it that way in the blog
